@@ -1,10 +1,10 @@
 - Hi, I’m @Airmanextra
-- I’m interested in: Robotics, specifically the First Tech Challenge
+- I’m interested in: Robotics, specifically the First Tech Challenge and First RObotics challenge
 - I’m currently learning: Java 💀
-- I’m looking to collaborate on: Nothing I don't like working in groups
-- How to reach me: Don't.
+- I’m looking to collaborate on: 
+- How to reach me: rish.vasupalli@gmail.com
 - Pronouns: He/Him/His
-- Fun fact: Up to 50 nuclear warheads were lost during the cold war
+- Fun fact:
 
 <!---
 Airmanextra/Airmanextra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
